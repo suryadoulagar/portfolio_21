@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name": "Surya Doulagar",
+    "occupation": "Software engineer | Full-stack web developer | Freelancer",
+    "description": "I express in React",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "Get in touch with me!",
+    "email": "suryadoulagar@gmail.com",
+    "phone": "+91 9866085346",
+    "address": {
+      "street": "kPHB Colony",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "500072"
+    },
+    "website": "https://www.google.com",
+    "resumedownload": "https://drive.google.com/file/d/15kOlae4A2qc9YyJokNQbOa_i8ulcqPA9/view?usp=sharing",
+    "checkCertifications" : "https://drive.google.com/drive/folders/1lF-GpBaPn-raePr6-h3qlqyaKsrTQZtx?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/surya-doulagar-1037a816a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/suryadoulagar",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mr_doulagar",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kick_codes",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Tech Proficiency",
+    "education": [
+      {
+        "school": "Malla Reddy Institute of Technology and Science",
+        "degree": "B Tech, Computer Science Engineering",
+        "graduated": "July 2021",
+        "description": "with an active aggregate of 75%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Darwinbox",
+        "title": "Product Specialist",
+        "years": "April 2021 - Present",
+        "description": "Monitoring all aspects of product lifecycle, essentially the face of darwinbox for the clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "85%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "99%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "90%"
+      },
+      {
+        "name": "Cloud Firestore",
+        "level": "95%"
+      },
+      {
+        "name": "Git & Github",
+        "level": "95%"
+      },
+      {
+        "name": "MERN Stack Developer",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Nexus",
+        "category": "ReactJS",
+        "image": "url.jpg",
+        "url": "https://suryadoulagar.netlify.app/"
+      },
+      {
+        "title": "MRITS APP",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://mrits.in/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://coronacops.herokuapp.com/"
+      },
+      {
+        "title": "To-Do React application",
+        "category": "ReactJS",
+        "image": "url.jpg",
+        "url": "https://suryadoulagar.netlify.app/"
+      },
+      {
+        "title": "AVMs Freshup",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://avmsfreshup.com"
+      },
+      {
+        "title": "Voice Command Application",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://suryadoulagar.netlify.app/"
+      },
+      {
+        "title": "URL shotener",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://suryadoulagar.netlify.app/"
+      },
+      {
+        "title": "SD Constructions",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://suryadoulagar.github.io/portfolio_html/"
+      },
+      {
+        "title": "Weather Application",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://avmsfreshup.com"
+      },
+      {
+        "title": "Quiz Application",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://avmsfreshup.com"
+      },
+      {
+        "title": "Billionaire Rookie",
+        "category": "",
+        "image": "url.jpg",
+        "url": "https://suryadoulagar.home.blog"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "John wick with pencil is Surya with Code!",
+        "user": "Sairaj Doulagar"
+      },
+      {
+        "text": "Assume positive feedbacks here..",
+        "user": "Kushagra kumar"
+      }
+    ]
+  }
+}
